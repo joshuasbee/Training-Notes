@@ -18,3 +18,13 @@ Make sure to check the powerpoint for good pointers on the whitepapers
 ### Jan 25
 Make sure to turn things in by putting them on github, and submit a link as the assignment instead of files. 
 Week 4 has been updated on github branches! 
+
+### Jan 29
+Add story points in projects tab under each item 
+Scoring you go around and ask everyone and try to distribute the story points a little bit
+
+### Feb 5
+Mention IDE in dev guide
+talk about frontend, backend, DB tools in dev guide
+**EVERYONE: READ THE SRS**
+
